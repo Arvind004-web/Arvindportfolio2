@@ -470,7 +470,7 @@ text-align:center;
 	  width:100%;
   }
   .preloader h1{
-	  padding :0px 70px 0px;
+	  padding :0px 45px 0px;
   }
   .navbar{
 width:100%;
@@ -513,14 +513,14 @@ width:100%;
 	
 }
 .contact-content{
-	  padding: 1150px 0px 0px;
+	  padding: 750px 40px 0px;
 	  width:50%;
   }
   .map{
 	  display:block;
 	  width:300px;
 	  left:-80%;
-	  padding :750px 0px 0px;
+	  padding :850px 0px 0px;
 	  float:left;
   }
  .icons{
