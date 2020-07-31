@@ -478,11 +478,12 @@ width:100%;
 
  
   .home-content{
-	  top:310px;
+	  top:390px;
 	  padding: 0px 40px 20px;
   }
   .about-content img{
 	  width:100%;
+	  height:50%;
   }
   
   .main-service table tr td{
